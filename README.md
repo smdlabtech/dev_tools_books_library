@@ -1,2 +1,2 @@
-# shiny_books_library
-Best books to become an R Shiny application developer
+# Dev Books Library
+Best books to become a web developer of interactive data applications

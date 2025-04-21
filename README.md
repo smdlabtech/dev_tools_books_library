@@ -22,10 +22,10 @@ Ce dépôt centralise une sélection de livres, documentations PDF et ressources
 
 ## 👨‍💻 Technologies et outils
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![Shiny](https://img.shields.io/badge/-Shiny-RStudio?logo=rstudio&logoColor=white)  
-![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-RStudio?logo=rstudio&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 

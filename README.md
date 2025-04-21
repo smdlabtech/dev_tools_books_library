@@ -89,14 +89,6 @@ Exemples d'ouvrages présents :
 - [ ] Créer un script Python de recherche dans la bibliothèque
 
 
-## 🧑‍💻 Contributeurs & Remerciements
-
-👤 **smdlabtech**  
-🔗 [Profil GitHub](https://github.com/smdlabtech)  
-📧 smdlabtech@gmail.com
-
-> Merci à tous ceux qui partagent des ressources et qui contribuent à l’apprentissage open-source 🙌
-
 ## 📝 Licence
 
 🗃️ Ce projet est sous licence **MIT**.  
@@ -107,3 +99,4 @@ Exemples d'ouvrages présents :
 
 📧 Email : smdlabtech@gmail.com  
 🔗 GitHub : [https://github.com/smdlabtech](https://github.com/smdlabtech)
+> Merci à tous ceux qui partagent des ressources et qui contribuent à l’apprentissage open-source 🙌
